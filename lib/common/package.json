@@ -30,7 +30,7 @@
     "jssha": "2.4.1",
     "opossum": "5.0.1",
     "sshpk": "1.16.1",
-    "uuid": "3.3.3"
+    "uuid": "14.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
